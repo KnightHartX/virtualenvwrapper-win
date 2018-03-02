@@ -1,5 +1,7 @@
-virtualenvwrapper-win
+virtualenvwrapper-win-powershell
 =====================
+
+A fork of David Marble's `virtualenvwrapper-win <https://github.com/davidmarble/virtualenvwrapper-win>`_ with minimal powershell support. Following is the README from upstream.
 
 This is a port of Doug Hellmann's `virtualenvwrapper <http://www.doughellmann.com/projects/virtualenvwrapper/>`_
 to Windows batch scripts. The idea behind virtualenvwrapper is to ease usage of
